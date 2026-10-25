@@ -4,7 +4,7 @@
 
 **Recycled-materials monster workshop — planner + bestiary of 50 original monsters, in a single offline HTML file.**
 
-_Version: 1.7 · Last updated: 26.10.2026_
+_Version: 1.7.1 · Last updated: 26.10.2026_
 
 ## What it is
 

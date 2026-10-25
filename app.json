@@ -1,0 +1,72 @@
+{
+  "schema": 1,
+  "slug": "monstrarium",
+  "name": "MONSTRARIUM",
+  "version": "1.7.1",
+  "updated": "2026-10-26",
+  "description": "MONSTRARIUM — offline planner and bestiary of 50 original monsters for a recycled-materials workshop. 8 languages, no tracking.",
+  "egress": [],
+  "permissions": [
+    "navigator.share",
+    "clipboard",
+    "serviceWorker",
+    "WebGL"
+  ],
+  "storageKeys": [],
+  "sizeBytes": 411979,
+  "sha256": "3d87463b0ff9338af072912fc520137efee620ba5a2214b990b67a3df0c5d311",
+  "csp": {
+    "present": true,
+    "directives": {
+      "default-src": "'none'",
+      "script-src": "sha256×2",
+      "style-src": "'unsafe-inline'",
+      "img-src": "'self' data: blob:",
+      "connect-src": "'self'",
+      "manifest-src": "'self'",
+      "worker-src": "'self'",
+      "media-src": "'self' blob:",
+      "base-uri": "'none'",
+      "form-action": "'none'",
+      "object-src": "'none'"
+    },
+    "scriptInline": "hash",
+    "connect": "'self'"
+  },
+  "features": {
+    "export": true,
+    "import": true,
+    "i18n": [
+      "ro",
+      "en",
+      "fr",
+      "it",
+      "es",
+      "pt",
+      "hu",
+      "de"
+    ],
+    "pwa": {
+      "manifest": true,
+      "serviceWorker": true
+    },
+    "modules": [
+      "core",
+      "store",
+      "dialog",
+      "label",
+      "bundle"
+    ]
+  },
+  "kit": {
+    "version": "1.2.0",
+    "modules": [
+      "core",
+      "store",
+      "dialog",
+      "label",
+      "bundle"
+    ]
+  },
+  "selfSerializing": false
+}

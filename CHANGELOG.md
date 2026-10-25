@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.7.1 — 26.10.2026
+- fff-kit 1.2.0: Transparency label (tap the version), `.fff.json` backup/restore, FFF.store. Saved settings migrate automatically from the old `monstrarium` key to `monstrarium.state`.
+- Security: Content-Security-Policy now uses a script hash instead of `unsafe-inline`; `app.json` declares zero external requests.
+
 ## 1.7 — 26.10.2026
 - Sounds: every monster (and generated ones) roars; an original hummed Halloween / Halo Fest tune per monster; 4 age levels of fierceness; Web Audio, fully offline.
 - 3D: rotatable WebGL model of every monster (drag, pinch, wheel, keyboard).

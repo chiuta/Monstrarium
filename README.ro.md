@@ -4,7 +4,7 @@
 
 **Atelier de monștri din materiale reciclate — planificator + bestiar cu 50 de monștri originali, într-un singur fișier HTML, offline.**
 
-_Versiune: 1.7 · Ultima actualizare: 26.10.2026_
+_Versiune: 1.7.1 · Ultima actualizare: 26.10.2026_
 
 ## Ce este
 
