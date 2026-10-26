@@ -1,5 +1,5 @@
 /* MONSTRARIUM offline cache */
-const C="monstrarium-1.7.2";
+const C="monstrarium-2.0.0";
 const F=["./","index.html","manifest.webmanifest","icon.svg","img/icon-180.png","img/icon-192.png","img/icon-512.png"];
 self.addEventListener("install",e=>{e.waitUntil(caches.open(C).then(c=>c.addAll(F)).then(()=>self.skipWaiting()))});
 self.addEventListener("activate",e=>{e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==C).map(x=>caches.delete(x)))).then(()=>self.clients.claim()))});

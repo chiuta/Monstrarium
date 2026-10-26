@@ -4,7 +4,7 @@
 
 **Recycled-materials monster workshop — planner + bestiary of 50 original monsters, in a single offline HTML file.**
 
-_Version: 1.7.1 · Last updated: 26.10.2026_
+_Version: 2.0.0 · Last updated: 26.10.2026_
 
 ## What it is
 
@@ -21,6 +21,7 @@ MONSTRARIUM works out by itself which recycled materials to collect for a monste
 - **Monster generator** — editor with locks (🔒), mutations, Bestiary remixes and a shareable code; for all children it creates up to 500 different monsters, by difficulty or time, using only the materials you collected, with a shortage report and CSV export.
 - **Full-screen tricks** — every monster performs its trick in a full-screen animation (16 tricks); each has a unique anchor link (`index.html#m-bocan`) and share buttons for WhatsApp, Telegram, Facebook, X, LinkedIn, Reddit and e-mail, with text, a preview image and a call to build more, similar copies.
 - **Diplomas** — printable, with names or blank.
+- **Album (v2.0.0)** — one printable sheet per participant (names from the Diplomas tab, monster from the Monsters tab): name, materials with quantities, sound (description + frequency) and code; 2 sheets per A4 page. "Export the Parade for FASCICUL" downloads `.fascicul.json` files (40 monsters per board, with names) that open in FASCICUL (Screen → 📂 Session) and are projected; with more than 40 monsters, several files are opened one after another.
 - **Sounds and tunes** — every monster (and every generated one) roars and hums an original Halloween / Halo Fest tune; 4 'fierceness' levels matched to age (3–5, 6–9, 10–13, 14+).
 - **3D** — a rotatable 3D model of every monster (WebGL, no libraries).
 - **Educational game** — mixed quiz, memory and 'guess by sound' with the 50 monsters plus the generated ones.

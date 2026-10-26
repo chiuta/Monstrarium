@@ -4,7 +4,7 @@
 
 **Monster-Werkstatt aus Recyclingmaterial — Planer + Bestiarium mit 50 originellen Monstern, in einer einzigen Offline-HTML-Datei.**
 
-_Version: 1.7.1 · Zuletzt aktualisiert: 26.10.2026_
+_Version: 2.0.0 · Zuletzt aktualisiert: 26.10.2026_
 
 ## Was ist das?
 

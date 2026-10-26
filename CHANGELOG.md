@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.0.0 — 26.10.2026
+- Workshop album: a printable sheet per participant (name, materials, sound, code) and the Parade of all monsters exported for projection through FASCICUL (`.fascicul.json`, 40 monsters per board).
+
 ## 1.7.1 — 26.10.2026
 - fff-kit 1.2.0: Transparency label (tap the version), `.fff.json` backup/restore, FFF.store. Saved settings migrate automatically from the old `monstrarium` key to `monstrarium.state`.
 - Security: Content-Security-Policy now uses a script hash instead of `unsafe-inline`; `app.json` declares zero external requests.
