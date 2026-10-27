@@ -4,7 +4,9 @@
 
 **Atelier de monștri din materiale reciclate — planificator + bestiar cu 50 de monștri originali, într-un singur fișier HTML, offline.**
 
-_Versiune: 2.0.0 · Ultima actualizare: 26.10.2026_
+_Versiune: 2.1.0 · Ultima actualizare: 27.10.2026_
+
+_Stare: stabil · Offline: complet_
 
 ## Ce este
 
@@ -26,6 +28,13 @@ MONSTRARIUM calculează singur ce materiale reciclate trebuie strânse pentru un
 - **3D** — model 3D rotativ pentru fiecare monstru (WebGL, fără biblioteci).
 - **Joc educațional** — quiz mixt, memorie și «ghicește după sunet» cu cei 50 de monștri plus cei generați.
 - 8 limbi, fără urmărire, fără cereri externe, funcționează offline, tipărire curată.
+
+## Siguranță și vârstă recomandată (2.1.0)
+
+- **Fișă de siguranță a materialelor** (fila Program, tipăribilă cu butonul Tipărește): reguli scurte pentru lipici PVA, vopsea și carioci, foarfece cu vârf rotunjit, pistolul de lipit la cald și cutter (doar adulți), piese mici (nu sub 3 ani), bețe și margini tăiate, pungi de plastic și lână, ambalaje, alergii și prim ajutor. Este un **ghid orientativ al autorului**, nu o certificare: nu înlocuiește evaluarea de risc a organizatorului și nici regulile locului, ale asigurării sau ale legii, și nu a fost revizuit de un specialist în siguranță.
+- **Vârsta recomandată** pe fiecare fișă de monstru („de la 3 / 6 / 10 ani”): rezultă din regulile proprii ale aplicației (dificultate maximă pe grupă: 3–5 ușor, 6–9 până la mediu, 10–13 și 14+ până la mai greu). Orientativ; selectorul de vârstă adaptează în continuare tot planul (dificultate, minute, raport ajutoare, sunete).
+- Fișele tipăribile pentru ateliere cu copii existau deja: cartonașele monștrilor cu lista de materiale (fila Monștri), diplomele și albumul participanților (o fișă per participant).
+- Traducerile textelor noi sunt automate și nu au fost verificate de vorbitori nativi.
 
 ## Pornire rapidă
 
