@@ -64,3 +64,7 @@ MIT — © 2026 Alexandru-Ionuț Chiuță (Alexio).
 ## Susține proiectul
 
 [☕ Buy Me a Coffee](https://buymeacoffee.com/echo.of.the.strings)
+
+## Foi goale de tipărit (2.2.0)
+
+Fila **Album** oferă acum și o **foaie de prezență** și un **buletin de vot pentru paradă** (5 categorii de joacă plus lista numerotată a monștrilor din paradă). Sunt formulare simple pe hârtie: aplicația nu salvează nimic din ce se scrie pe ele și nu conțin formulări juridice (nu e oferit niciun formular de acord). 8 limbi; fr/it/es/pt/de/hu sunt traduceri automate. Netestate pe imprimante reale.

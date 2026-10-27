@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.2.0 — 27.10.2026 (previous: 2.1.0)
+- New: two **blank printable sheets** in the Album tab: an **attendance sheet** (No., name, age, notes such as allergies/contact person, signature; one row per participant, at least 12; names are pre-filled from the Diplomas tab if you entered them) and a **parade ballot** (5 categories: funniest, most creative, friendliest, most "scary" (for fun), most colourful; plus the numbered list of the monsters in the parade). Printing shows only the sheet; nothing written on paper is stored by the app, and no personal data is saved by these sheets. In 8 languages (RO and EN written; fr/it/es/pt/de/hu automatic translations, not checked by native speakers).
+- New test `tests/sheets.test.mjs` (29 checks: both sheets in all 8 languages, print-only visibility, cleanup after printing, 0 page errors, 0 network requests). Existing `safety.test.mjs` 20/20 and `album.test.mjs` 19/19 (the same 19 as on 2.1.0).
+- Not done: a consent/privacy form (legal wording would need an expert; the attendance sheet makes no legal claim); testing on real printers.
+
 ## 2.1.0 — 27.10.2026 (previous: 2.0.0)
 - New: **materials safety sheet** (Schedule tab, printable with the Print button): glue, paint and markers, scissors, hot-glue gun and cutter, small parts, sticks and cut edges, bags and yarn, packaging, allergies and first aid; with a clear note that it is an indicative guide, not a certification. In 8 languages (automatic translations, not checked by native speakers).
 - New: **recommended age** tag ("from 3 / 6 / 10 years") on every monster sheet (Bestiary and generated monsters), derived from the app's own difficulty-per-age-band rules (3–5 → easy, 6–9 → up to medium, 10–13 and 14+ → up to harder). Indicative.

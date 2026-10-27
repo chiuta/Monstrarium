@@ -64,3 +64,7 @@ MIT — © 2026 Alexandru-Ionuț Chiuță (Alexio).
 ## Support the project
 
 [☕ Buy Me a Coffee](https://buymeacoffee.com/echo.of.the.strings)
+
+## Blank printable sheets (2.2.0)
+
+The **Album** tab now also offers an **attendance sheet** and a **parade ballot** (5 fun categories plus the numbered list of the parade's monsters). They are plain paper forms: the app does not store anything written on them and they carry no legal wording (no consent form is provided). 8 languages; fr/it/es/pt/de/hu are automatic translations. Not tested on real printers.
