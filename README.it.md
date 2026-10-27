@@ -4,7 +4,9 @@
 
 **Laboratorio di mostri con materiali riciclati — pianificatore + bestiario di 50 mostri originali, in un unico file HTML offline.**
 
-_Versione: 2.0.0 · Ultimo aggiornamento: 26.10.2026_
+_Versione: 2.1.0 · Ultimo aggiornamento: 27.10.2026_
+
+_Stato: stabile · Offline: completo_
 
 ## Cos'è
 

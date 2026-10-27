@@ -4,7 +4,9 @@
 
 **Oficina de monstros com materiais reciclados — planeador + bestiário de 50 monstros originais, num único ficheiro HTML offline.**
 
-_Versão: 2.0.0 · Última atualização: 26.10.2026_
+_Versão: 2.1.0 · Última atualização: 27.10.2026_
+
+_Estado: estável · Offline: completo_
 
 ## O que é
 

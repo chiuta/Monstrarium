@@ -4,7 +4,9 @@
 
 **Szörnyműhely újrahasznosított anyagokból — tervező + 50 eredeti szörny bestiáriuma, egyetlen offline HTML-fájlban.**
 
-_Verzió: 2.0.0 · Utolsó frissítés: 26.10.2026_
+_Verzió: 2.1.0 · Utolsó frissítés: 27.10.2026_
+
+_Állapot: stabil · Offline: teljes_
 
 ## Mi ez?
 

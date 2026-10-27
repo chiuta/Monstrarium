@@ -4,7 +4,9 @@
 
 **Taller de monstruos con materiales reciclados — planificador + bestiario de 50 monstruos originales, en un único archivo HTML sin conexión.**
 
-_Versión: 2.0.0 · Última actualización: 26.10.2026_
+_Versión: 2.1.0 · Última actualización: 27.10.2026_
+
+_Estado: estable · Sin conexión: completo_
 
 ## Qué es
 

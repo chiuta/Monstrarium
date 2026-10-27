@@ -4,7 +4,9 @@
 
 **Recycled-materials monster workshop — planner + bestiary of 50 original monsters, in a single offline HTML file.**
 
-_Version: 2.0.0 · Last updated: 26.10.2026_
+_Version: 2.1.0 · Last updated: 27.10.2026_
+
+_Status: stable · Offline: complete_
 
 ## What it is
 
@@ -26,6 +28,13 @@ MONSTRARIUM works out by itself which recycled materials to collect for a monste
 - **3D** — a rotatable 3D model of every monster (WebGL, no libraries).
 - **Educational game** — mixed quiz, memory and 'guess by sound' with the 50 monsters plus the generated ones.
 - 8 languages, no tracking, no external requests, works offline, clean printing.
+
+## Safety and recommended age (2.1.0)
+
+- **Materials safety sheet** (Schedule tab, printable with the Print button): short rules for PVA glue, paint and markers, round-tip scissors, the hot-glue gun and cutter (adults only), small parts (not for under 3s), sticks and cut edges, plastic bags and yarn, packaging, allergies and first aid. It is an **indicative guide by the author**, not a certification: it does not replace the organiser's risk assessment or the rules of the venue, insurance or law, and it has not been reviewed by a safety expert.
+- **Recommended age** on every monster sheet ("from 3 / 6 / 10 years"): derived from the app's own rules (difficulty cap per age band: 3–5 easy, 6–9 up to medium, 10–13 and 14+ up to harder). Indicative; the age selector still adapts the whole plan (difficulty, minutes, helper ratio, sounds).
+- Printable sheets for children's workshops already existed: monster cards with materials list (Monsters tab), diplomas, and the participant album (one sheet per participant).
+- Translations of the new texts are automatic and have not been checked by native speakers.
 
 ## Quick start
 

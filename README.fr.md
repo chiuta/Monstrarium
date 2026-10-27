@@ -4,7 +4,9 @@
 
 **Atelier de monstres en matériaux recyclés — planificateur + bestiaire de 50 monstres originaux, dans un seul fichier HTML hors ligne.**
 
-_Version: 2.0.0 · Dernière mise à jour: 26.10.2026_
+_Version: 2.1.0 · Dernière mise à jour: 27.10.2026_
+
+_État: stable · Hors ligne: complet_
 
 ## Présentation
 

@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.1.0 — 27.10.2026 (previous: 2.0.0)
+- New: **materials safety sheet** (Schedule tab, printable with the Print button): glue, paint and markers, scissors, hot-glue gun and cutter, small parts, sticks and cut edges, bags and yarn, packaging, allergies and first aid; with a clear note that it is an indicative guide, not a certification. In 8 languages (automatic translations, not checked by native speakers).
+- New: **recommended age** tag ("from 3 / 6 / 10 years") on every monster sheet (Bestiary and generated monsters), derived from the app's own difficulty-per-age-band rules (3–5 → easy, 6–9 → up to medium, 10–13 and 14+ → up to harder). Indicative.
+- Documentation: "Status: stable · Offline: complete" in all READMEs; README sections on safety and age (EN, RO).
+- The printable participant cards, diplomas and album sheets already existed (2.0.0).
+- Not done: a safety review by a child-safety or occupational-safety expert; the content is the author's practical guidance.
+
+
 ## 2.0.0 — 26.10.2026
 - Workshop album: a printable sheet per participant (name, materials, sound, code) and the Parade of all monsters exported for projection through FASCICUL (`.fascicul.json`, 40 monsters per board).
 
