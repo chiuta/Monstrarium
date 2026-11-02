@@ -13,8 +13,8 @@
     "WebGL"
   ],
   "storageKeys": [],
-  "sizeBytes": 472681,
-  "sha256": "206dface6848ce5085192977704e3254795a672348b11e1a45de436dd41cc5d9",
+  "sizeBytes": 613115,
+  "sha256": "4b52af6defd25a3b430ca38aeb80c1eba0a8f7250a7eb3da3f817a9ce34d6e65",
   "csp": {
     "present": true,
     "directives": {
@@ -56,6 +56,10 @@
       "dialog",
       "label",
       "bundle",
+      "qr",
+      "p2p",
+      "sync",
+      "history",
       "bridge"
     ]
   },
@@ -67,6 +71,10 @@
       "dialog",
       "label",
       "bundle",
+      "qr",
+      "p2p",
+      "sync",
+      "history",
       "bridge"
     ]
   },
