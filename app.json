@@ -2,7 +2,7 @@
   "schema": 1,
   "slug": "monstrarium",
   "name": "MONSTRARIUM",
-  "version": "2.3.6",
+  "version": "2.3.7",
   "updated": "2026-11-11",
   "description": "MONSTRARIUM — offline planner and bestiary of 50 original monsters for a recycled-materials workshop. 8 languages, no tracking.",
   "egress": [],
@@ -16,8 +16,8 @@
     "BroadcastChannel"
   ],
   "storageKeys": [],
-  "sizeBytes": 728986,
-  "sha256": "ffa4feccca3fa46ccfdb6a7e830db23c30eeca83a980cb4f6a465e120e04bfcc",
+  "sizeBytes": 731869,
+  "sha256": "75245ebade33c0e8bb725994c382d66ac0477749ce55a473e6cde14b4c952314",
   "csp": {
     "present": true,
     "directives": {
