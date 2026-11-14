@@ -16,13 +16,13 @@
     "BroadcastChannel"
   ],
   "storageKeys": [],
-  "sizeBytes": 745446,
-  "sha256": "217d772e9030cad785e61b93026328cdf4bc677c2b2791ad175ff8f1e766d257",
+  "sizeBytes": 797077,
+  "sha256": "76e259c6d491ca783a1fb0ee940ea795d95d174aeff69784d0a16d6d35168fb4",
   "csp": {
     "present": true,
     "directives": {
       "default-src": "'none'",
-      "script-src": "sha256×6",
+      "script-src": "sha256×7",
       "style-src": "'unsafe-inline'",
       "img-src": "'self' data: blob:",
       "connect-src": "'self'",
