@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.4.0 — 2026-11-15
+
+- New: accessibility on every screen — the “Aa” button (text size, high contrast, no animations, readable text, underlined links, read aloud), a “Back to top” arrow and “Skip to content”; the window always fits the screen; the magnifier zoom and “fit screen” controls now sit on the left edge (fff-kit 1.6.0).
+
 ## 2.3.10 — 2026-11-15
 
 - Corectat: pe telefoane, butoanele de limbă nu mai ating bara de zoom din dreapta (rândul lasă liber culoarul barei).
