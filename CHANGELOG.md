@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.3.10 — 2026-11-15
+
+- Corectat: pe telefoane, butoanele de limbă nu mai ating bara de zoom din dreapta (rândul lasă liber culoarul barei).
+
 ## 2.3.9 — 2026-11-15
 
 - Nou: texturi fractale hiper-detaliate (fff-texturi 1.1.2) — fundalul și suprafețele mari (carduri, panouri, antete, butoane; filele și dialogurile ascunse la încărcare, când se deschid) primesc un material generat local (WebGL2, fără rețea și fără imagini), care se repetă fără cusătură; culorile aplicației rămân ale ei. Se oprește din dialogul „Transparență” sau cu `?notex=1`.
